@@ -1,0 +1,6 @@
+{
+  "name": "Luminous Precision Studio & Dashboard",
+  "description": "Modern responsive digital studio showcase and real-time interactive analytics dashboard with JWT authentication, dark mode, offline caching, and live dynamic data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
